@@ -1,6 +1,6 @@
-[简体中文](README.md) ｜ **English**
-
 # NetEaseMusicCheck
+
+[简体中文](README.md) ｜ **English**
 
 NetEase Cloud Music daily auto check-in, running silently in the background without disturbing your daily browsing experience. Suitable for overseas users in combination with [NetEaseMusicWorld++](https://github.com/kogamitora/NetEaseMusicWorldNext), the mobile client will also be unlocked synchronously.
 
@@ -24,7 +24,7 @@ Waiting for Chrome Web Store review...
 
 1. No Data Collection: This extension does not collect, store, or transmit any personally identifiable information (PII), music listening history, or private user data to any external servers.
 
-2. The permissions requested by this extension are used strictly for its core functionalities as follows:
+1. The permissions requested by this extension are used strictly for its core functionalities as follows:
 
 - **Storage**: Used locally to save the extension's toggle state and the last execution date to prevent redundant tasks.
 
@@ -34,4 +34,4 @@ Waiting for Chrome Web Store review...
 
 - **Cookies & Host Permissions**: Used locally to detect login status (reading MUSIC_U) and retrieve the CSRF token required for check-ins. All cookie processing is performed within the user's local browser environment and is never leaked.
 
-3. All code is open for use under the GPL-3.0.
+1. All code is open for use under the GPL-3.0.
