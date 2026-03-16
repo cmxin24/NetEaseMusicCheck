@@ -1,3 +1,5 @@
+[English](README_EN.md) | **中文**
+
 # NetEaseMusicCheck (网易云音乐自动签到)
 
 ## 简介
