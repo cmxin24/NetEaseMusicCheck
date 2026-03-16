@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "NetEaseMusicCheck BETA",
+  "name": "NetEaseMusicCheck",
   "version": "0.0.2",
   "icons": {
     "16": "images/red16.png",
@@ -15,7 +15,7 @@
     },
     "default_title": "NetEaseMusicCheck: Active"
   },
-  "description": "NetEase Cloud Music automatic check-in assistant. THIS EXTENSION IS FOR BETA TESTING.",
+  "description": "NetEase Cloud Music automatic check-in assistant.",
   "permissions": [
     "storage",
     "tabs",
