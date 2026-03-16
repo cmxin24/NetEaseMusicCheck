@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "NetEaseMusicCheck",
   "version": "2.0",
-  "description": "NetEase Cloud Music automatic sign-in assistant every day. After installation, it will automatically help you complete the web sign-in and receive points in the background every day, and you will be silent and undisturbed throughout the process.",
+  "description": "NetEase Cloud Music automatic check-in assistant. It will automatically help you complete the web check-in and receive points in the background every day, and you will be silent and undisturbed throughout the process.",
   "permissions": [
     "storage",
     "tabs",
@@ -13,10 +13,12 @@
     "*://*.music.163.com/*",
     "*://music.163.com/*"
   ],
-  "icons": {
-    "16": "images/red16.png",
-    "48": "images/red48.png",
-    "128": "images/red128.png"
+"action": {
+    "default_icon": {
+      "16": "images/red16.png",
+      "48": "images/red48.png",
+      "128": "images/red128.png"
+    }
   },
   "background": {
     "service_worker": "background.js"
