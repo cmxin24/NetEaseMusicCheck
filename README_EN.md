@@ -1,6 +1,6 @@
 [简体中文](README.md) ｜ **English**
 
-# NetEaseMusicCheck (NetEase Cloud Music Auto Check-in)
+# NetEase Cloud Music Auto Web Check-in
 
 ## Introduction
 
