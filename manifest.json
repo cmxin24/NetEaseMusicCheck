@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "NetEaseMusicCheck",
+  "name": "NetEaseMusicActivator",
   "version": "0.0.3",
   "icons": {
     "16": "images/red16.png",
@@ -13,7 +13,7 @@
       "48": "images/red48.png",
       "128": "images/red128.png"
     },
-    "default_title": "NetEaseMusicCheck: Active"
+    "default_title": "NetEaseMusicActivator: Active"
   },
   "description": "NetEase Cloud Music automatic check-in assistant.",
   "permissions": [
