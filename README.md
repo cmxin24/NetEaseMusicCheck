@@ -2,6 +2,8 @@
 
 [English Version](#english)
 
+## 简体中文
+
 网易云音乐每日自动签到，后台静默运行，不打扰日常浏览体验。
 
 适合海外用户搭配 [NetEaseMusicWorld++](https://github.com/kogamitora/NetEaseMusicWorldNext) 使用，手机电脑等客户端也将同步解锁。
@@ -9,7 +11,7 @@
 ## 主要功能
 
 - **自动签到**：每天自动打开网易云音乐网页端签到。
-- **登录提醒**：如果用户尚未登录，将会发送一条通知进行提醒，点击跳转至后台自动打开的网页。
+- **登录提醒**：如果用户尚未登录，将发送一条通知进行提醒，点击跳转至后台已打开的网页。
 - **定时执行**：如果浏览器未打开或处于休眠状态，将在下一次打开时执行。
 - **后台运行**：签到过程在后台静默完成，完成后自动关闭网页。
 
@@ -33,14 +35,14 @@
 
 ---
 
-<a id="english"></a>
+## English
 
 NetEase Cloud Music daily auto check-in, running silently in the background without disturbing your daily browsing experience. Suitable for overseas users in combination with [NetEaseMusicWorld++](https://github.com/kogamitora/NetEaseMusicWorldNext), the mobile and PC client will also be unlocked synchronously.
 
 ## Key Features
 
 - **Auto Check-in**: Automatically opens the NetEase Cloud Music webpage to check in every day.
-- **Login Reminder**: If user has not logged in yet, will show a notification.
+- **Login Reminder**: If user has not logged in yet, will show a notification. Will switch to the opened webpage when user click it.
 - **Scheduled Execution**: If the browser is not open or in sleep mode, it will execute the next time it is opened.
 - **Background Operation**: The check-in process is completed silently in the background, and will automatically close the page when it is finished.
 
