@@ -1,6 +1,6 @@
 # NetEaseMusicActivator
 
-**简体中文** ｜ [English](README_EN.md)
+[English Version](#english)
 
 网易云音乐每日自动签到，后台静默运行，不打扰日常浏览体验。
 
@@ -9,8 +9,9 @@
 ## 主要功能
 
 - **自动签到**：每天自动打开网易云音乐网页端签到。
+- **登录提醒**：如果用户尚未登录，将会发送一条通知进行提醒，点击跳转至后台自动打开的网页。
 - **定时执行**：如果浏览器未打开或处于休眠状态，将在下一次打开时执行。
-- **后台运行**：签到过程在后台静默完成，不会弹出通知。
+- **后台运行**：签到过程在后台静默完成，完成后自动关闭网页。
 
 ## 安装方法
 
@@ -29,3 +30,34 @@
 1. 申请的权限仅用于实现核心功能.
 
 1. 所有代码依照GPL-3.0开源。
+
+---
+
+<a id="english"></a>
+
+NetEase Cloud Music daily auto check-in, running silently in the background without disturbing your daily browsing experience. Suitable for overseas users in combination with [NetEaseMusicWorld++](https://github.com/kogamitora/NetEaseMusicWorldNext), the mobile and PC client will also be unlocked synchronously.
+
+## Key Features
+
+- **Auto Check-in**: Automatically opens the NetEase Cloud Music webpage to check in every day.
+- **Login Reminder**: If user has not logged in yet, will show a notification.
+- **Scheduled Execution**: If the browser is not open or in sleep mode, it will execute the next time it is opened.
+- **Background Operation**: The check-in process is completed silently in the background, and will automatically close the page when it is finished.
+
+## Installation
+
+Waiting for Chrome Web Store review...
+
+## Usage
+
+1. **Login**: First, **log in** to your account on the [NetEase Cloud Music official website (music.163.com)](http://music.163.com/).
+2. **Auto Run**: The extension will automatically read your login status (Cookies) and perform the daily check-in task automatically in the background.
+3. **Status Toggle**: Click the logo to disable it when not needed, and the logo will automatically turn gray.
+
+## Privacy Policy
+
+1. No Data Collection: This extension does not collect, store, or transmit any personally identifiable information (PII), music listening history, or private user data to any external servers.
+
+1. The permissions requested are used strictly for the core functionalities.
+
+1. All code is open for use under the GPL-3.0.
