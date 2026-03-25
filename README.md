@@ -21,7 +21,6 @@
 
 [https://chromewebstore.google.com/detail/neteasemusicactivator/blmpkmpldchiiecilhgpahegoibafgci](https://chromewebstore.google.com/detail/neteasemusicactivator/blmpkmpldchiiecilhgpahegoibafgci)
 
-
 ## 使用说明
 
 1. **登录账号**：先在 [网易云音乐官网 (music.163.com)](https://music.163.com/) 中**登录**您的账号。
