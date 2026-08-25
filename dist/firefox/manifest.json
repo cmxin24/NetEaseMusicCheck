@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "NetEaseMusicActivator",
+  "version": "1.0.0",
+  "description": "NetEase Cloud Music automatic check-in assistant.",
+  "icons": {
+    "16": "images/red16.png",
+    "48": "images/red48.png",
+    "128": "images/red128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "images/red16.png",
+      "48": "images/red48.png",
+      "128": "images/red128.png"
+    },
+    "default_title": "NetEaseMusicActivator: Active"
+  },
+  "permissions": [
+    "storage",
+    "alarms",
+    "cookies",
+    "notifications"
+  ],
+  "host_permissions": [
+    "*://*.music.163.com/*",
+    "*://music.163.com/*"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "mengxibitan.yu@gmail.com",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  }
+}

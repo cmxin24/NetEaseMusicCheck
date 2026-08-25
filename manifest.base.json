@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "NetEaseMusicActivator",
   "version": "1.0.0",
+  "description": "NetEase Cloud Music automatic check-in assistant.",
   "icons": {
     "16": "images/red16.png",
     "48": "images/red48.png",
@@ -15,7 +16,6 @@
     },
     "default_title": "NetEaseMusicActivator: Active"
   },
-  "description": "NetEase Cloud Music automatic check-in assistant.",
   "permissions": [
     "storage",
     "alarms",
@@ -25,8 +25,5 @@
   "host_permissions": [
     "*://*.music.163.com/*",
     "*://music.163.com/*"
-  ],
-  "background": {
-    "service_worker": "background.js"
-  }
+  ]
 }

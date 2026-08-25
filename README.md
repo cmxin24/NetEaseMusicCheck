@@ -6,7 +6,7 @@
 
 网易云音乐每日自动签到，后台静默运行，不打扰日常浏览体验。
 
-适合海外用户搭配 [NetEaseMusicWorld++](https://github.com/kogamitora/NetEaseMusicWorldNext) 使用，每日刷新歌曲播放权限，手机电脑等客户端也将同步解锁。
+适合海外用户搭配 [NetEaseMusicWorld++](https://github.com/kogamitora/NetEaseMusicWorldNext) (Chrome / Chromium) 或 [NetEaseMusicWorld+](https://github.com/nondanee/NetEaseMusicWorldPlus) (Firefox) 使用，每日刷新歌曲播放权限，手机电脑等客户端也将同步解锁。
 
 ## 主要功能
 
@@ -17,9 +17,13 @@
 
 ## 安装方法
 
-点击下方链接跳转至Chrome Web Store, 点击右侧蓝色按钮「添加到XXX」即可（XXX为您的浏览器，如Chrome或者Brave等）。
+Chromium内核浏览器用户请点击下方链接跳转至Chrome Web Store, 点击右侧蓝色按钮「添加到XXX」即可（XXX为您的浏览器，如Chrome或者Brave等）。
 
 [Chrome应用商店](https://chromewebstore.google.com/detail/neteasemusicactivator/blmpkmpldchiiecilhgpahegoibafgci)
+
+Firefox用户请点击下方链接跳转至Firefox Add-ons Store, 点击右侧蓝色按钮「Add to Firefox」即可。
+
+[Firefox Add-ons Store](https://addons.mozilla.org/zh-CN/firefox/addon/neteasemusicactivator/)
 
 ## 使用说明
 
@@ -39,7 +43,7 @@
 
 ## English
 
-NetEase Cloud Music daily auto check-in, running silently in the background without disturbing your daily browsing experience. Suitable for overseas users in combination with [NetEaseMusicWorld++](https://github.com/kogamitora/NetEaseMusicWorldNext), the mobile and PC client will also be unlocked synchronously.
+NetEase Cloud Music daily auto check-in, running silently in the background without disturbing your daily browsing experience. Suitable for overseas users in combination with [NetEaseMusicWorld++](https://github.com/kogamitora/NetEaseMusicWorldNext) (Chrome / Chromium) or [NetEaseMusicWorld+](https://github.com/nondanee/NetEaseMusicWorldPlus) (Firefox), the mobile and PC client will also be unlocked synchronously.
 
 ## Key Features
 
@@ -50,9 +54,14 @@ NetEase Cloud Music daily auto check-in, running silently in the background with
 
 ## Installation
 
-Open the link below to jump to the Chrome Web Store, click the blue button on the right "Add to XXX" (XXX is your browser, such as Chrome or Brave, etc.).
+Chromium core browser users please open the link below to jump to the Chrome Web Store, click the blue button on the right "Add to XXX" (XXX is your browser, such as Chrome or Brave, etc.).
 
 [Chrome Web Store](https://chromewebstore.google.com/detail/neteasemusicactivator/blmpkmpldchiiecilhgpahegoibafgci)
+
+Firefox users please open the link below to jump to the Firefox Add-ons Store, click the blue button on the right "Add to Firefox".
+
+[Firefox Add-ons Store](https://addons.mozilla.org/zh-CN/firefox/addon/neteasemusicactivator/)
+
 
 ## Usage
 
